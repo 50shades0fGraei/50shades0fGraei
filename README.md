@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/randall-lujan-b80732335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- Email: meta2graei@gmail.com
 
 ## 💡 Projects
 
